@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_test=self.webpackChunkmy_website_test||[]).push([[4583],{6866:(e,t,s)=>{s.r(t),s.d(t,{default:()=>n});var r=s(781),u=s(4848);function n(){return(0,u.jsx)(r.A,{title:"World of Antard"})}}}]);
