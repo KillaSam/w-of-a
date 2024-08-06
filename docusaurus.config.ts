@@ -41,13 +41,6 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -57,26 +50,28 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/main-logo.png',
     navbar: {
-      title: 'My Site',
+      title: 'World of Antrad',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'W.of.A.',
+        src: 'img/main-logo.png',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Раси',
+          to: '/docs/races'
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {label: 'Класи', position: 'left', to: '/docs/classes'},
+        { label: 'Персонаж', position: 'left', to: '/docs/description-and-backstory'},
+        { label: 'Бій', position: 'left', to: '/docs/fight' },
+        { label: 'Поза боєм', position: 'left', to: '/docs/outside-fight' },
+        { label: 'Характеристики', position: 'left', to: '/docs/characters' },
+        { label: 'Спорядження', position: 'left', to: '/docs/inventory' },
+        { label: 'Стани (не готово)', position: 'left', href: '#' },
+        { label: 'Пантеони (не готово)', position: 'left', href: '#' },
+        { label: 'Континент (не готово)', position: 'left', href: '#' },
       ],
     },
     footer: {
