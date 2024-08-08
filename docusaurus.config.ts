@@ -3,9 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'World of Antrad',
+  favicon: 'img/main-logo.png',
 
   // Set the production url of your site here
   url: 'https://killasam.github.io',
