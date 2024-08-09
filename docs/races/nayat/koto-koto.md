@@ -21,9 +21,7 @@
   - Спритність **+2**
   - Харизма **+1**
 
-### Вроджені навички
-  - [**Акробатика**](/docs/characters/using.md#acrobatics)
-  - [**Дресування**](/docs/characters/using.md#dressing)
+**Вроджена навичка:** [Релігія](/docs/characters/using.md#religion)
 
 Регіон: **Айторія**<br />
 Країна: **Наяштар**

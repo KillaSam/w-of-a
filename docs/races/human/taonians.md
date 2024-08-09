@@ -21,9 +21,7 @@
   - Інтелект **-1**
   - Харизма **-1**
 
-### Вроджені навички
-  - [**Виживання**](/docs/characters/using.md#surviving)
-  - [**Акробатика**](/docs/characters/using.md#acrobatics)
+**Вроджена навичка:** [Увага](/docs/characters/using.md#attention)
 
 Регіон: **Айторія**<br />
 Країна: **Таона**

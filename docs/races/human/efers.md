@@ -20,9 +20,7 @@
   - Статура **+1**
   - Інтелект **+1**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Магія**](/docs/characters/using.md#magic)
+**Вроджена навичка:** [Магія](/docs/characters/using.md#magic)
 
 Регіон: **Айторія**<br />
 Країна: **Ефір**

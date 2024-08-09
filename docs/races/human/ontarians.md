@@ -20,9 +20,7 @@
   - Статура **+1**
   - Спритність **+1**
 
-### Вроджені навички
-  - [**Виживання**](/docs/characters/using.md#surviving)
-  - [**Природа**](/docs/characters/using.md#nature)
+**Вроджена навичка:** [Спритність рук](/docs/characters/using.md#sleight-hand)
 
 Регіон: **Айторія**<br />
 Країна: **Ефір**

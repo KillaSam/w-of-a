@@ -21,10 +21,7 @@
   - Інтелект **+1**
   - Харизма **-1**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  <br />або
-  - [**Розслідування**](/docs/characters/using.md#investigation)
+**Вроджена навичка:** [Історія](/docs/characters/using.md#history), або [Розслідування](/docs/characters/using.md#investigation)
 
 Регіон: **Айторія**<br />
 Країна: **Фростхолд**

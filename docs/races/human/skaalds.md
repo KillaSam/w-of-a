@@ -22,9 +22,7 @@
   - Інтелект **-1**
   - Мудрість **-3**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Виживання**](/docs/characters/using.md#surviving)
+**Вроджена навичка:** [Атлетика](/docs/characters/using.md#athletic)
 
 Регіон: **Айторія**<br />
 Країна: **Стромфьйольн**

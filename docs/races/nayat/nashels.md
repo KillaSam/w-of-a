@@ -22,9 +22,7 @@
   - Спритність **+1**
   - Харизма **-2**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Залякування**](/docs/characters/using.md#scary)
+**Вроджена навичка:** [Виживання](/docs/characters/using.md), або [Розслідування](/docs/characters/using.md#investigation)
 
 Регіон: **Айторія**<br />
 Країна: **Наяштар**

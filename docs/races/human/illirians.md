@@ -20,9 +20,7 @@
   - Сила **+1**
   - Харизма **+1**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Переконання**](/docs/characters/using.md#persuation)
+**Вроджена навичка:** [Обман](/docs/characters/using.md#tricking)
 
 Регіон: **Айторія**<br />
 Країна: **Інтирен**

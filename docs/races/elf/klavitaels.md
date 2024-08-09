@@ -23,9 +23,7 @@
   - Інтелект **+2**
   - Мудрість **+1**
 
-### Вроджені навички
-  - [**Історія**](/docs/characters/using.md#history)
-  - [**Магія**](/docs/characters/using.md#magic)
+**Вроджена навичка:** [Магія](/docs/characters/using.md#magic)
 
 Регіон: **Айторія**<br />
 Країна: **Ефентер**

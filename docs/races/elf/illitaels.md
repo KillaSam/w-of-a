@@ -21,9 +21,7 @@
   - Інтелект **+1**
   - Харизма **-1**
 
-### Вроджені навички
-  - [**Виживання**](/docs/characters/using.md#surviving)
-  - [**Природа**](/docs/characters/using.md#nature)
+**Вроджена навичка:** [Акробатика](/docs/characters/using.md#acrobatics)
 
 Регіон: **Айторія**<br />
 Країна: **Ефентер**

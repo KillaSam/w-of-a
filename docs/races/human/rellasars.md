@@ -20,9 +20,7 @@
   - Статура **+1**
   - Харизма **+1**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Акробатика**](/docs/characters/using.md#acrobatics)
+**Вроджена навичка:** [Виживання](/docs/characters/using.md#surviving)
 
 Регіон: **Айторія**<br />
 Країна: **Ренор**

@@ -23,9 +23,7 @@
   - Мудрість **-3**
   - Харизма **+2**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Залякування**](/docs/characters/using.md#scary)
+**Вроджена навичка:** [Залякування](/docs/characters/using.md#scary)
 
 Регіон: **Нортерра**<br />
 Країна: **Нортрун**

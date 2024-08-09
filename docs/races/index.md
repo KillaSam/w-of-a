@@ -10,7 +10,7 @@ P.S. зміна раси після вибору неможлива
   * [Релласари](/docs/races/human/rellasars.md)
   * [Скаальди](/docs/races/human/skaalds.md)
   * [Зеторі](/docs/races/human/zetori.md)
-  * Таонійці (не готові)
+  * [Таонійці](/docs/races/human/taonians.md)
 * [Ельфи](/docs/races/elf)
   * [Алітаєлі](/docs/races/elf/allitaels.md)
   * [Іллітаєлі](/docs/races/elf/illitaels.md)

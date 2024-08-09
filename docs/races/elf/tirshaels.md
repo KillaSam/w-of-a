@@ -21,9 +21,7 @@
   - Спритність **+3**
   - Харизма **-2**
 
-### Вроджені навички
-  - [**Атлетика**](/docs/characters/using.md#athletic)
-  - [**Виживання**](/docs/characters/using.md#surviving)
+**Вроджена навичка:** [Розслідування](/docs/characters/using.md#investigation), або [Дрессирування](/docs/characters/using.md#dressing)
 
 Регіон: **Зелтаїр**<br />
 Країна: **Тіршалон**
