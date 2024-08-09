@@ -21,7 +21,7 @@
   - Інтелект **+1**
   - Харизма **-1**
 
-**Вроджена навичка:** [Історія](/docs/characters/using.md#history), або [Розслідування](/docs/characters/using.md#investigation)
+**Вроджена навичка:** [Історія](/docs/characters/index.md#history), або [Розслідування](/docs/characters/index.md#investigation)
 
 Регіон: **Айторія**<br />
 Країна: **Фростхолд**

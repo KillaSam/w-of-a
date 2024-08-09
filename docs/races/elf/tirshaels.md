@@ -21,7 +21,7 @@
   - Спритність **+3**
   - Харизма **-2**
 
-**Вроджена навичка:** [Розслідування](/docs/characters/using.md#investigation), або [Дрессирування](/docs/characters/using.md#dressing)
+**Вроджена навичка:** [Розслідування](/docs/characters/index.md#investigation), або [Дрессирування](/docs/characters/index.md#dressing)
 
 Регіон: **Зелтаїр**<br />
 Країна: **Тіршалон**

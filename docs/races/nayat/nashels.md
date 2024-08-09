@@ -22,7 +22,7 @@
   - Спритність **+1**
   - Харизма **-2**
 
-**Вроджена навичка:** [Виживання](/docs/characters/using.md), або [Розслідування](/docs/characters/using.md#investigation)
+**Вроджена навичка:** [Виживання](/docs/characters/index.md), або [Розслідування](/docs/characters/index.md#investigation)
 
 Регіон: **Айторія**<br />
 Країна: **Наяштар**
